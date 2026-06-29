@@ -1,0 +1,18 @@
+[
+    {
+        "teamName": "Celtics",
+        "players": [
+            { "name": "Jayson Tatum", "off": 93, "def": 90 },
+            { "name": "Jaylen Brown", "off": 90, "def": 88 },
+            { "name": "Derrick White", "off": 85, "def": 89 }
+        ]
+    },
+    {
+        "teamName": "Mavericks",
+        "players": [
+            { "name": "Luka Doncic", "off": 99, "def": 82 },
+            { "name": "Kyrie Irving", "off": 92, "def": 78 },
+            { "name": "Klay Thompson", "off": 83, "def": 76 }
+        ]
+    }
+]
